@@ -79,16 +79,20 @@ text-align: center;
 margin: auto;
 padding-top: 15%;
 }
+.form-control{
+    border-radius: 50px;
+}
 
 .btn{
     padding: 1rem 4rem;
-    border-radius: 10px;
+    border-radius: 50px;
     border: none;
     cursor: pointer;
+    background-color: #7868E6;
 }
 
 .btn:hover{
-    background-color: #B980F0;
+    background-color: #7868E6;
 }
 
 .login{
